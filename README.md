@@ -1,4 +1,5 @@
 # cusro-git
 Repositorio creado para el curso
 
-## repositorio creado para la prueba, este es el markdown
+## descripcion 
+repositorio creado para la prueba, este es el markdown
